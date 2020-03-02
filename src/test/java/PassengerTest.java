@@ -1,3 +1,17 @@
+/*
+ * John Lawless
+ * g00351835@gmit.ie
+ *
+ * Maven Project
+ * In class practice test
+ * The object is to design, through test driven design,
+ * a passenger class.
+ * Test that the passengers title is valid
+ * Test name, id and phone number are long enough
+ * Test the passenger is old enough to travel alone
+ * Produce a report in jacoco
+ * */
+
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
