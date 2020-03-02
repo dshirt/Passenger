@@ -44,7 +44,7 @@ public class PassengerTest {
     }
 
 
-
+//This test catches the thrown exception message and validates the message thrown
     @DisplayName("***********Testing creation of passenger Object no title ***********")
     @Test
     void testConstructorPassengerWrongTitle(){
